@@ -26,7 +26,6 @@ std::string Automobile::toString(){
     std::string automobile = std::to_string(vehicle_id) + " ";
     automobile += std::to_string(miles) + " ";
     automobile += last_maintinance + "\n";
-
     return automobile;
 }
 

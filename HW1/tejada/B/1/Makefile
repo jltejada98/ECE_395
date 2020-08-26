@@ -7,11 +7,15 @@ SRCS = HW1.cpp Automobile.cpp
 
 OBJS = $(SRCS:%.cpp=%.o)
 
+#Run homework immediately after compilation.
 $(TARGET): $(OBJS)
 	$(GPP) $(OBJS) -o $(TARGET)
+	./$(TARGET)
 
 .cpp.o:
 	$(GPP) $(TESTFLAGS) -c $*.cpp
+
+
 
 clean:
 	rm -f $(OBJS) $(TARGET) valgrind?.log  *.b

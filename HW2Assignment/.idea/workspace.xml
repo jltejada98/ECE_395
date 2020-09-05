@@ -10,22 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ba1a0d7-35fa-4de9-a7b0-4a65311a50db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tejada/A.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tejada/B.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tejada/C/Derived.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tejada/C/Derived.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tejada/C/HW2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tejada/HW2Code/Base.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tejada/HW2Code/Base.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/HW2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userid/A.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/userid/B.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/userid/C/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/tejada/C/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userid/HW2Code/Base.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/tejada/C/Base.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userid/HW2Code/Base.h" beforeDir="false" afterPath="$PROJECT_DIR$/tejada/C/Base.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userid/HW2Code/Derived.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/tejada/HW2Code/Derived.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userid/HW2Code/Derived.h" beforeDir="false" afterPath="$PROJECT_DIR$/tejada/HW2Code/Derived.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userid/HW2Code/HW2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/tejada/HW2Code/HW2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tejada/C/HW2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/tejada/C/HW2.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +46,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Makefile.clean">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Makefile_Test" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile">
       <makefile filename="$PROJECT_DIR$/userid/C/Makefile" target="" workingDirectory="" arguments="">
         <envs />
@@ -97,10 +78,10 @@
     </configuration>
     <list>
       <item itemvalue="Makefile.Makefile_Test" />
-      <item itemvalue="Makefile.run" />
-      <item itemvalue="Makefile.cleanmake" />
       <item itemvalue="Makefile.%.o" />
       <item itemvalue="Makefile.clean" />
+      <item itemvalue="Makefile.cleanmake" />
+      <item itemvalue="Makefile.run" />
     </list>
     <recent_temporary>
       <list>
@@ -120,6 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599229773378</updated>
       <workItem from="1599229775081" duration="11902000" />
+      <workItem from="1599325237191" duration="129000" />
     </task>
     <servers />
   </component>

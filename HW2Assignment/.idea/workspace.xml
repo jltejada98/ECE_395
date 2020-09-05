@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ba1a0d7-35fa-4de9-a7b0-4a65311a50db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tejada/A.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tejada/B.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tejada/C/Derived.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tejada/C/Derived.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tejada/C/HW2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tejada/HW2Code/Base.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tejada/HW2Code/Base.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/HW2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userid/A.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userid/B.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userid/C/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/tejada/C/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userid/HW2Code/Base.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/tejada/C/Base.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userid/HW2Code/Base.h" beforeDir="false" afterPath="$PROJECT_DIR$/tejada/C/Base.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userid/HW2Code/Derived.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/tejada/HW2Code/Derived.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userid/HW2Code/Derived.h" beforeDir="false" afterPath="$PROJECT_DIR$/tejada/HW2Code/Derived.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userid/HW2Code/HW2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/tejada/HW2Code/HW2.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1h3BCwty8v78pWGjWLBejQIRQ0D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/userid/C" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.valgrind" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/userid/C" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Makefile.clean">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Makefile_Test" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile">
+      <makefile filename="$PROJECT_DIR$/userid/C/Makefile" target="" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="%.o" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/userid/C/Makefile" target="%.o" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="clean" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/userid/C/Makefile" target="clean" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="cleanmake" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/userid/C/Makefile" target="cleanmake" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/userid/C/Makefile" target="run" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Makefile.Makefile_Test" />
+      <item itemvalue="Makefile.run" />
+      <item itemvalue="Makefile.cleanmake" />
+      <item itemvalue="Makefile.%.o" />
+      <item itemvalue="Makefile.clean" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Makefile.clean" />
+        <item itemvalue="Makefile.%.o" />
+        <item itemvalue="Makefile.cleanmake" />
+        <item itemvalue="Makefile.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ba1a0d7-35fa-4de9-a7b0-4a65311a50db" name="Default Changelist" comment="" />
+      <created>1599229773378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599229773378</updated>
+      <workItem from="1599229775081" duration="11902000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="206" y="249" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599229843453">
+      <screen x="0" y="23" width="1920" height="1126" />
+    </state>
+    <state x="206" y="249" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1126@0.23.1920.1126" timestamp="1599229843453" />
+    <state width="1078" height="313" key="GridCell.Tab.0.bottom" timestamp="1599325135025">
+      <screen x="0" y="23" width="1920" height="1126" />
+    </state>
+    <state width="1078" height="313" key="GridCell.Tab.0.bottom/0.23.1920.1126@0.23.1920.1126" timestamp="1599325135025" />
+    <state width="1078" height="313" key="GridCell.Tab.0.center" timestamp="1599325135024">
+      <screen x="0" y="23" width="1920" height="1126" />
+    </state>
+    <state width="1078" height="313" key="GridCell.Tab.0.center/0.23.1920.1126@0.23.1920.1126" timestamp="1599325135024" />
+    <state width="1078" height="313" key="GridCell.Tab.0.left" timestamp="1599325135024">
+      <screen x="0" y="23" width="1920" height="1126" />
+    </state>
+    <state width="1078" height="313" key="GridCell.Tab.0.left/0.23.1920.1126@0.23.1920.1126" timestamp="1599325135024" />
+    <state width="1078" height="313" key="GridCell.Tab.0.right" timestamp="1599325135024">
+      <screen x="0" y="23" width="1920" height="1126" />
+    </state>
+    <state width="1078" height="313" key="GridCell.Tab.0.right/0.23.1920.1126@0.23.1920.1126" timestamp="1599325135024" />
+    <state x="904" y="640" width="463" height="508" key="dock-window-1" timestamp="1599320202581">
+      <screen x="0" y="23" width="1920" height="1126" />
+    </state>
+    <state x="904" y="640" width="463" height="508" key="dock-window-1/0.23.1920.1126@0.23.1920.1126" timestamp="1599320202581" />
+    <state x="904" y="23" width="463" height="616" key="dock-window-2" timestamp="1599320202581">
+      <screen x="0" y="23" width="1920" height="1126" />
+    </state>
+    <state x="904" y="23" width="463" height="616" key="dock-window-2/0.23.1920.1126@0.23.1920.1126" timestamp="1599320202581" />
+    <state x="0" y="640" width="903" height="508" key="dock-window-3" timestamp="1599318885465">
+      <screen x="0" y="23" width="1920" height="1126" />
+    </state>
+    <state x="0" y="640" width="903" height="508" key="dock-window-3/0.23.1920.1126@0.23.1920.1126" timestamp="1599318885465" />
+  </component>
+</project>

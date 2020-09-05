@@ -13,7 +13,7 @@ COMMANDLINE =
 run : $(EXECUTABLE)
 	./$(EXECUTABLE) $(COMMANDLINE)
 
-cleanmake : clean HW1
+cleanmake : clean HW2 #Corrected from HW1 -> HW2
 
 .PHONY : $(EXECUTABLE)
 $(EXECUTABLE) :  $(OBJS)

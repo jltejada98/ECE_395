@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW5Assigned/tejada/Array2D.H
+iostream
+-
+
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW5Assigned/tejada/Array2D.cpp
+iostream
+-
+cstdlib
+-
+Array2D.H
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW5Assigned/tejada/Array2D.H
+
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW5Assigned/tejada/Array2D.h
+iostream
+-
+
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW5Assigned/tejada/main.cpp
+iostream
+-
+Array2D.h
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW5Assigned/tejada/Array2D.h
+

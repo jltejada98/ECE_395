@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/HW5Assigned.dir/tejada/Array2D.cpp.o CMakeFiles/HW5Assigned.dir/tejada/main.cpp.o  -o HW5Assigned 

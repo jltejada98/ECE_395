@@ -6,17 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW5Assigned/tejada/Array2D.H
-iostream
--
-
 /Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW5Assigned/tejada/Array2D.cpp
 iostream
 -
 cstdlib
 -
-Array2D.H
-/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW5Assigned/tejada/Array2D.H
+Array2D.h
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW5Assigned/tejada/Array2D.h
 
 /Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW5Assigned/tejada/Array2D.h
 iostream

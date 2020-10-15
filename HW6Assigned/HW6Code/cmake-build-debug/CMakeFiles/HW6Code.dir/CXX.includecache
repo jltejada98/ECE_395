@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW6Assigned/HW6Code/2/Faculty.cpp
+Faculty.h
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW6Assigned/HW6Code/2/Faculty.h
+string
+-
+iostream
+-
+
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW6Assigned/HW6Code/2/Faculty.h
+string
+-
+Person.h
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW6Assigned/HW6Code/2/Person.h
+string
+-
+
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW6Assigned/HW6Code/2/Person.cpp
+Person.h
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW6Assigned/HW6Code/2/Person.h
+string
+-
+iostream
+-
+
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW6Assigned/HW6Code/2/Person.h
+string
+-
+string
+-
+
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW6Assigned/HW6Code/2/Student.cpp
+Student.h
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW6Assigned/HW6Code/2/Student.h
+string
+-
+iostream
+-
+
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW6Assigned/HW6Code/2/Student.h
+string
+-
+Person.h
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW6Assigned/HW6Code/2/Person.h
+string
+-
+
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW6Assigned/HW6Code/2/main.cpp
+Person.h
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW6Assigned/HW6Code/2/Person.h
+Student.h
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW6Assigned/HW6Code/2/Student.h
+Faculty.h
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW6Assigned/HW6Code/2/Faculty.h
+iostream
+-
+

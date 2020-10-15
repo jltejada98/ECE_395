@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW4Assignment/tejada/Address.h
+string
+-
+
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW4Assignment/tejada/Person.cpp
+iostream
+-
+string
+-
+Person.h
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW4Assignment/tejada/Person.h
+
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW4Assignment/tejada/Person.h
+Address.h
+/Users/joseluistejada/Documents/Purdue/Year 4/Semester 1/Computer Engineering 395/ECE_395/HW4Assignment/tejada/Address.h
+

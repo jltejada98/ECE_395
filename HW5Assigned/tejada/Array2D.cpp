@@ -90,6 +90,9 @@ bool Array2D::operator==(const Array2D &arg2){
             }
         }
     }
+    else{
+    	return false;
+    }
     return true;
 }
 

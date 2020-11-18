@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/HW8Assigned.dir/main.cpp.o CMakeFiles/HW8Assigned.dir/Person.cpp.o CMakeFiles/HW8Assigned.dir/Student.cpp.o CMakeFiles/HW8Assigned.dir/TA.cpp.o CMakeFiles/HW8Assigned.dir/Teacher.cpp.o  -o HW8Assigned 

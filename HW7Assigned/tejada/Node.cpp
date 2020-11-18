@@ -1,5 +1,3 @@
-//Included all code into Node.h as otherwise will have undefined references.
-
 /*
 #include <iostream>
 #include "Int.h"
